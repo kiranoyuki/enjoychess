@@ -1,0 +1,47 @@
+h3 {
+	font-weight: bold;
+	font-size: 18px;
+	color: #514f4f;
+	margin: 10px;
+}
+h5{
+	margin: 20px 10px;
+	font-size: 18px;
+	color: #514f4f;
+}
+h5{
+	margin: 20px 10px;
+	font-size: 18px;
+	color: #d9135f;
+}
+h6 {
+	font-style: italic;;
+	font-size: 15px;
+	color: #727272;
+}
+.user-navbar{
+	font-size: 18px;
+	color: #d9135f !important;
+}
+
+.small-form{
+	width: 600px;
+	margin: 20px auto;
+}
+.user-check{
+	padding-top: 40px;
+	font-style: italic;;
+	font-size: 15px;
+	color: #83b869;
+}
+.btn-margin-left{
+	margin-left: 250px
+}
+.hide{
+	display:none;
+}
+
+#board{
+	width: 400px;
+	margin: 50px auto;
+}
